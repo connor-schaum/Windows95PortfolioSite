@@ -51,13 +51,6 @@
       "icon": "📁"
     },
     {
-      "name": "README.md",
-      "type": "file",
-      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\README.md",
-      "icon": "📄",
-      "url": "/Connor/README.md"
-    },
-    {
       "name": "Resume.pdf",
       "type": "file",
       "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\Resume.pdf",
@@ -76,11 +69,25 @@
   ],
   "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame": [
     {
+      "name": "Fishing.PNG",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame\\Fishing.PNG",
+      "icon": "🖼️",
+      "url": "/Connor/FishingIndieGame/Fishing.PNG"
+    },
+    {
       "name": "Readme.txt",
       "type": "file",
       "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame\\Readme.txt",
       "icon": "📄",
       "url": "/Connor/FishingIndieGame/Readme.txt"
+    },
+    {
+      "name": "Upgrades.PNG",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame\\Upgrades.PNG",
+      "icon": "🖼️",
+      "url": "/Connor/FishingIndieGame/Upgrades.PNG"
     }
   ],
   "My Computer\\Local Disk (C:)\\Users\\Connor\\P2Pnetworking": [
