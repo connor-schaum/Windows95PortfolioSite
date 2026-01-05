@@ -68,7 +68,7 @@ export default function Settings({ settings, onSettingsChange }) {
               }`}
               onClick={() => handleTimeFormatChange('12h')}
             >
-              12 Hour (Normal)
+              12 Hour
             </button>
             <button
               className={`win95-button px-3 py-1 ${
@@ -76,7 +76,7 @@ export default function Settings({ settings, onSettingsChange }) {
               }`}
               onClick={() => handleTimeFormatChange('24h')}
             >
-              24 Hour (Military)
+              24 Hour
             </button>
           </div>
         </div>
