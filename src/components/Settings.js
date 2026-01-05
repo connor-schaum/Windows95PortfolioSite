@@ -118,9 +118,6 @@ export default function Settings({ settings, onSettingsChange }) {
               </div>
             ))}
           </div>
-          <div className="mt-2 text-xs text-gray-600">
-            Add wallpapers to <code>public/wallpapers/</code> folder
-          </div>
         </div>
       </div>
     </div>
