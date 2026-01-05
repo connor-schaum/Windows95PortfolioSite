@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/generate-file-structure.js",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate-structure": "node scripts/generate-file-structure.js"
   },
   "dependencies": {
     "next": "16.1.1",

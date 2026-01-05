@@ -1,0 +1,95 @@
+{
+  "": [
+    {
+      "name": "My Computer",
+      "type": "folder",
+      "path": "My Computer",
+      "icon": "💻"
+    }
+  ],
+  "My Computer": [
+    {
+      "name": "Local Disk (C:)",
+      "type": "folder",
+      "path": "My Computer\\Local Disk (C:)",
+      "icon": "💾"
+    }
+  ],
+  "My Computer\\Local Disk (C:)": [
+    {
+      "name": "Users",
+      "type": "folder",
+      "path": "My Computer\\Local Disk (C:)\\Users",
+      "icon": "👥"
+    }
+  ],
+  "My Computer\\Local Disk (C:)\\Users": [
+    {
+      "name": "Connor",
+      "type": "folder",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor",
+      "icon": "👤"
+    }
+  ],
+  "My Computer\\Local Disk (C:)\\Users\\Connor": [
+    {
+      "name": "ExpenseTrackingApplicaiton",
+      "type": "folder",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\ExpenseTrackingApplicaiton",
+      "icon": "📁"
+    },
+    {
+      "name": "FishingIndieGame",
+      "type": "folder",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame",
+      "icon": "📁"
+    },
+    {
+      "name": "P2Pnetworking",
+      "type": "folder",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\P2Pnetworking",
+      "icon": "📁"
+    },
+    {
+      "name": "README.md",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\README.md",
+      "icon": "📄",
+      "url": "/Connor/README.md"
+    },
+    {
+      "name": "Resume.pdf",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\Resume.pdf",
+      "icon": "📄",
+      "url": "/Connor/Resume.pdf"
+    }
+  ],
+  "My Computer\\Local Disk (C:)\\Users\\Connor\\ExpenseTrackingApplicaiton": [
+    {
+      "name": "Readme.txt",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\ExpenseTrackingApplicaiton\\Readme.txt",
+      "icon": "📄",
+      "url": "/Connor/ExpenseTrackingApplicaiton/Readme.txt"
+    }
+  ],
+  "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame": [
+    {
+      "name": "Readme.txt",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\FishingIndieGame\\Readme.txt",
+      "icon": "📄",
+      "url": "/Connor/FishingIndieGame/Readme.txt"
+    }
+  ],
+  "My Computer\\Local Disk (C:)\\Users\\Connor\\P2Pnetworking": [
+    {
+      "name": "Readme.txt",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\P2Pnetworking\\Readme.txt",
+      "icon": "📄",
+      "url": "/Connor/P2Pnetworking/Readme.txt"
+    }
+  ]
+}
