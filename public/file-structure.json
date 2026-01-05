@@ -51,6 +51,13 @@
       "icon": "📁"
     },
     {
+      "name": "Readme.txt",
+      "type": "file",
+      "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\Readme.txt",
+      "icon": "📄",
+      "url": "/Connor/Readme.txt"
+    },
+    {
       "name": "Resume.pdf",
       "type": "file",
       "path": "My Computer\\Local Disk (C:)\\Users\\Connor\\Resume.pdf",
